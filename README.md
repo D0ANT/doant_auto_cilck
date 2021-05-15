@@ -6,4 +6,4 @@
 꼭 한글자만 입력해야될 필요는 없다. tab이나 ctrl과 같은 키들을 눌러도 작동 된다.(일부 키들은 적어도 경고메시지 뜰수 있음)
 그뒤 설명처럼 ctrl + shift + enter를 누르면 종료가 된다.
 
-** 파일은 오른쪽에 release에 최신버전(0.1.1)에 doant.exe를 다운로드하면 됩니다. **
+** 파일은 오른쪽에 release에 최신버전(https://github.com/D0ANT/doant_auto_cilck/releases/tag/0.1.1)에 doant.exe를 다운로드하면 됩니다. **
